@@ -1,0 +1,6 @@
+{
+  "id": "amethyst_imbuement:fireball",
+  "cooldown": 32,
+  "manaCost": 10,
+  "minLvl": 6
+}

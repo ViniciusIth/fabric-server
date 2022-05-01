@@ -1,0 +1,6 @@
+{
+  "id": "amethyst_imbuement:cleanse",
+  "cooldown": 600,
+  "manaCost": 12,
+  "minLvl": 1
+}

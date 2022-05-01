@@ -1,0 +1,6 @@
+{
+  "pot_spawn_chance": 0.4,
+  "chest_spawn_chance": 0.2,
+  "surface_chest_spawn_chance": 0.02,
+  "mimic_chance": 0.45
+}

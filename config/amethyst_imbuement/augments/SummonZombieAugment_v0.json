@@ -1,0 +1,6 @@
+{
+  "id": "amethyst_imbuement:summon_zombie",
+  "cooldown": 1200,
+  "manaCost": 30,
+  "minLvl": 5
+}

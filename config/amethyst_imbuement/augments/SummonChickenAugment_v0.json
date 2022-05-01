@@ -1,0 +1,6 @@
+{
+  "id": "amethyst_imbuement:summon_chicken",
+  "cooldown": 900,
+  "manaCost": 10,
+  "minLvl": 1
+}

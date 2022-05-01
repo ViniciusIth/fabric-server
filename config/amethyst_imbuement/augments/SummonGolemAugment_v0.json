@@ -1,0 +1,6 @@
+{
+  "id": "amethyst_imbuement:summon_golem",
+  "cooldown": 6000,
+  "manaCost": 250,
+  "minLvl": 22
+}

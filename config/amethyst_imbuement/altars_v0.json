@@ -1,0 +1,14 @@
+{
+  "disenchantLevelCosts": [
+    3,
+    5,
+    9,
+    15,
+    23
+  ],
+  "disenchantBaseDisenchantsAllowed": 1,
+  "imbuingTableEnchantingEnabled": true,
+  "imbuingTableDifficultyModifier": 1.0,
+  "altarOfExperienceBaseLevels": 35,
+  "altarOfExperienceCandleLevelsPer": 5
+}
