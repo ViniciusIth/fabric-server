@@ -9,8 +9,8 @@
     "blacklist": []
   },
   "entityInventory": {
-    "enabled": true,
-    "itemCount": true,
+    "enabled": false,
+    "itemCount": false,
     "nbt": false,
     "maxWidth": 9,
     "maxHeight": 3,
@@ -33,7 +33,8 @@
     "enabled": true,
     "expandWhenSneak": false,
     "colors": {
-      "megane:default": 855385
+      "megane:default": 855385,
+      "minecraft:water": 4159204
     },
     "blacklist": []
   },
