@@ -1,0 +1,21 @@
+[extractinatorConfig]
+commonItemChance = 50.0
+uncommonItemChance = 25.0
+rareItemChance = 15.0
+veryRareItemChance = 5.0
+extremelyRareItemChance = 1.0
+inputCooldown = 20
+outputLootMultiplier = 1.0
+enableReiPercent = false
+extractinatorRecipe = "NONE"
+[worldConfig]
+generateSiltOre_v1 = true
+siltVeinSize_v2 = 13
+siltVeinsPerChunk_v2 = 9
+siltMinSpawnHeight_v1 = -64
+siltMaxSpawnHeight_v1 = 24
+generateSlushOre_v1 = true
+slushVeinSize_v1 = 13
+slushVeinsPerChunk_v1 = 10
+slushMinSpawnHeight_v1 = 25
+slushMaxSpawnHeight_v1 = 48

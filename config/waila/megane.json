@@ -34,7 +34,8 @@
     "expandWhenSneak": false,
     "colors": {
       "megane:default": 855385,
-      "minecraft:water": 4159204
+      "minecraft:water": 4159204,
+      "kibe:liquid_xp": 5635925
     },
     "blacklist": []
   },

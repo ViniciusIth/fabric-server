@@ -500,6 +500,26 @@
     "betternether:potted_plant": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "bewitchment:dragons_blood_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "bewitchment:juniper_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "bewitchment:elder_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "bewitchment:cypress_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "blossom:flowering_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],

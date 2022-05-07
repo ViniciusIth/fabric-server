@@ -1,0 +1,512 @@
+{
+  "tips": [
+    [
+      {
+        "identifier": "minecraft:oak_planks",
+        "speed": 0.65,
+        "rechargeAmount": 10,
+        "manaCost": 50,
+        "divergence": 1.8,
+        "criticalChance": 0.08,
+        "red": 148
+      },
+      {
+        "identifier": "minecraft:spruce_planks",
+        "speed": 0.65,
+        "rechargeAmount": 15,
+        "manaCost": 50,
+        "divergence": 1.8,
+        "criticalChance": 0.07,
+        "red": 127
+      },
+      {
+        "identifier": "minecraft:birch_planks",
+        "speed": 0.6,
+        "rechargeAmount": 10,
+        "manaCost": 35,
+        "divergence": 1.7,
+        "criticalChance": 0.05,
+        "red": 145
+      },
+      {
+        "identifier": "minecraft:jungle_planks",
+        "speed": 0.6,
+        "rechargeAmount": 15,
+        "manaCost": 40,
+        "divergence": 2.0,
+        "criticalChance": 0.08,
+        "red": 253
+      },
+      {
+        "identifier": "minecraft:acacia_planks",
+        "speed": 0.6,
+        "rechargeAmount": 10,
+        "manaCost": 50,
+        "divergence": 1.7,
+        "criticalChance": 0.08,
+        "red": 103
+      },
+      {
+        "identifier": "minecraft:dark_oak_planks",
+        "speed": 0.5,
+        "rechargeAmount": 10,
+        "manaCost": 35,
+        "divergence": 1.8,
+        "criticalChance": 0.08,
+        "red": 28
+      },
+      {
+        "identifier": "minecraft:glow_berries",
+        "speed": 0.65,
+        "rechargeAmount": 15,
+        "manaCost": 40,
+        "divergence": 1.8,
+        "criticalChance": 0.05,
+        "red": 70
+      },
+      {
+        "identifier": "minecraft:lapis_lazuli",
+        "speed": 0.5,
+        "rechargeAmount": 25,
+        "manaCost": 50,
+        "divergence": 2.0,
+        "criticalChance": 0.099999994,
+        "red": 160
+      },
+      {
+        "identifier": "minecraft:potato",
+        "speed": 0.5,
+        "rechargeAmount": 0,
+        "manaCost": 25,
+        "divergence": 2.0,
+        "criticalChance": 0.05,
+        "red": 245
+      },
+      {
+        "identifier": "minecraft:gold_nugget",
+        "speed": 0.5,
+        "rechargeAmount": 25,
+        "manaCost": 25,
+        "divergence": 2.0,
+        "criticalChance": 0.05,
+        "red": 145
+      },
+      {
+        "identifier": "minecraft:redstone",
+        "speed": 0.8,
+        "rechargeAmount": 10,
+        "manaCost": 50,
+        "divergence": 1.8,
+        "criticalChance": 0.05,
+        "red": 55
+      },
+      {
+        "identifier": "minecraft:glass",
+        "speed": 0.6,
+        "rechargeAmount": 0,
+        "manaCost": 40,
+        "divergence": 2.0,
+        "criticalChance": 0.11,
+        "red": 61
+      }
+    ],
+    [
+      {
+        "identifier": "minecraft:ghast_tear",
+        "speed": 0.75,
+        "rechargeAmount": 0,
+        "manaCost": 25,
+        "divergence": 1.5,
+        "criticalChance": 0.099999994,
+        "red": 65
+      },
+      {
+        "identifier": "minecraft:quartz",
+        "speed": 0.75,
+        "rechargeAmount": 25,
+        "manaCost": 0,
+        "divergence": 2.0,
+        "criticalChance": 0.05,
+        "red": 200
+      },
+      {
+        "identifier": "minecraft:emerald",
+        "speed": 0.5,
+        "rechargeAmount": 25,
+        "manaCost": 25,
+        "divergence": 2.0,
+        "criticalChance": 0.14999999,
+        "red": 185
+      },
+      {
+        "identifier": "minecraft:redstone_block",
+        "speed": 1.0,
+        "rechargeAmount": 0,
+        "manaCost": 50,
+        "divergence": 1.0,
+        "criticalChance": 0.05,
+        "red": 245
+      },
+      {
+        "identifier": "minecraft:crimson_planks",
+        "speed": 0.75,
+        "rechargeAmount": 25,
+        "manaCost": 50,
+        "divergence": 1.0,
+        "criticalChance": 0.05,
+        "red": 65
+      },
+      {
+        "identifier": "minecraft:warped_planks",
+        "speed": 0.5,
+        "rechargeAmount": 0,
+        "manaCost": 0,
+        "divergence": 2.0,
+        "criticalChance": 0.14999999,
+        "red": 65
+      }
+    ],
+    [
+      {
+        "identifier": "minecraft:shulker_shell",
+        "speed": 1.0,
+        "rechargeAmount": 0,
+        "manaCost": 50,
+        "divergence": 0.0,
+        "criticalChance": 0.05,
+        "red": 90
+      },
+      {
+        "identifier": "minecraft:prismarine_crystals",
+        "speed": 0.8,
+        "rechargeAmount": 30,
+        "manaCost": 20,
+        "divergence": 1.4,
+        "criticalChance": 0.11,
+        "red": 111
+      },
+      {
+        "identifier": "minecraft:nether_star",
+        "speed": 0.5,
+        "rechargeAmount": 50,
+        "manaCost": 50,
+        "divergence": 2.0,
+        "criticalChance": 0.24999999,
+        "red": 60
+      },
+      {
+        "identifier": "minecraft:netherite_ingot",
+        "speed": 1.0,
+        "rechargeAmount": 0,
+        "manaCost": 50,
+        "divergence": 1.0,
+        "criticalChance": 0.14999999,
+        "red": 165
+      }
+    ]
+  ],
+  "cores": [
+    [
+      {
+        "identifier": "minecraft:oak_planks",
+        "rechargeRate": 4,
+        "rechargeDelay": 8,
+        "rechargeAmount": 5,
+        "firerate": 10,
+        "range": 10,
+        "green": 55
+      },
+      {
+        "identifier": "minecraft:spruce_planks",
+        "rechargeRate": 7,
+        "rechargeDelay": 7,
+        "rechargeAmount": 5,
+        "firerate": 10,
+        "range": 30,
+        "green": 127
+      },
+      {
+        "identifier": "minecraft:birch_planks",
+        "rechargeRate": 8,
+        "rechargeDelay": 8,
+        "rechargeAmount": 35,
+        "firerate": 20,
+        "range": 10,
+        "green": 160
+      },
+      {
+        "identifier": "minecraft:jungle_planks",
+        "rechargeRate": 5,
+        "rechargeDelay": 5,
+        "rechargeAmount": 5,
+        "firerate": 20,
+        "range": 10,
+        "green": 175
+      },
+      {
+        "identifier": "minecraft:acacia_planks",
+        "rechargeRate": 8,
+        "rechargeDelay": 8,
+        "rechargeAmount": 5,
+        "firerate": 5,
+        "range": 40,
+        "green": 103
+      },
+      {
+        "identifier": "minecraft:dark_oak_planks",
+        "rechargeRate": 10,
+        "rechargeDelay": 10,
+        "rechargeAmount": 30,
+        "firerate": 20,
+        "range": 60,
+        "green": 250
+      },
+      {
+        "identifier": "minecraft:bone",
+        "rechargeRate": 0,
+        "rechargeDelay": 5,
+        "rechargeAmount": 5,
+        "firerate": 45,
+        "range": 10,
+        "green": 245
+      },
+      {
+        "identifier": "minecraft:carrot",
+        "rechargeRate": 8,
+        "rechargeDelay": 8,
+        "rechargeAmount": 15,
+        "firerate": 10,
+        "range": 30,
+        "green": 37
+      }
+    ],
+    [
+      {
+        "identifier": "minecraft:blaze_rod",
+        "rechargeRate": 5,
+        "rechargeDelay": 0,
+        "rechargeAmount": 5,
+        "firerate": -5,
+        "range": 10,
+        "green": 50
+      },
+      {
+        "identifier": "minecraft:amethyst_shard",
+        "rechargeRate": 5,
+        "rechargeDelay": 5,
+        "rechargeAmount": 5,
+        "firerate": -5,
+        "range": 60,
+        "green": 230
+      },
+      {
+        "identifier": "minecraft:bamboo",
+        "rechargeRate": 0,
+        "rechargeDelay": 0,
+        "rechargeAmount": 5,
+        "firerate": 20,
+        "range": 10,
+        "green": 200
+      },
+      {
+        "identifier": "minecraft:crimson_planks",
+        "rechargeRate": 5,
+        "rechargeDelay": 5,
+        "rechargeAmount": 5,
+        "firerate": -30,
+        "range": 10,
+        "green": 65
+      },
+      {
+        "identifier": "minecraft:warped_planks",
+        "rechargeRate": 10,
+        "rechargeDelay": 10,
+        "rechargeAmount": 55,
+        "firerate": 20,
+        "range": 110,
+        "green": 65
+      },
+      {
+        "identifier": "minecraft:golden_carrot",
+        "rechargeRate": 6,
+        "rechargeDelay": 6,
+        "rechargeAmount": 25,
+        "firerate": 0,
+        "range": 50,
+        "green": 74
+      }
+    ],
+    [
+      {
+        "identifier": "minecraft:end_rod",
+        "rechargeRate": 10,
+        "rechargeDelay": 10,
+        "rechargeAmount": 30,
+        "firerate": -5,
+        "range": 110,
+        "green": 155
+      },
+      {
+        "identifier": "minecraft:netherite_ingot",
+        "rechargeRate": 0,
+        "rechargeDelay": 0,
+        "rechargeAmount": 5,
+        "firerate": -5,
+        "range": 60,
+        "green": 0
+      }
+    ]
+  ],
+  "handles": [
+    [
+      {
+        "identifier": "minecraft:oak_planks",
+        "damage": 6,
+        "firerate": 15,
+        "manaCost": 45,
+        "criticalChance": 0.01,
+        "blue": 71
+      },
+      {
+        "identifier": "minecraft:spruce_planks",
+        "damage": 4,
+        "firerate": 10,
+        "manaCost": 45,
+        "criticalChance": 0.01,
+        "blue": 191
+      },
+      {
+        "identifier": "minecraft:birch_planks",
+        "damage": 4,
+        "firerate": 15,
+        "manaCost": 40,
+        "criticalChance": 0.01,
+        "blue": 101
+      },
+      {
+        "identifier": "minecraft:jungle_planks",
+        "damage": 4,
+        "firerate": 15,
+        "manaCost": 45,
+        "criticalChance": 0.02,
+        "blue": 92
+      },
+      {
+        "identifier": "minecraft:acacia_planks",
+        "damage": 4,
+        "firerate": 5,
+        "manaCost": 50,
+        "criticalChance": 0.01,
+        "blue": 26
+      },
+      {
+        "identifier": "minecraft:dark_oak_planks",
+        "damage": 4,
+        "firerate": 20,
+        "manaCost": 35,
+        "criticalChance": 0.01,
+        "blue": 11
+      },
+      {
+        "identifier": "minecraft:kelp",
+        "damage": 2,
+        "firerate": 10,
+        "manaCost": 35,
+        "criticalChance": 0.0,
+        "blue": 230
+      },
+      {
+        "identifier": "minecraft:glass",
+        "damage": 8,
+        "firerate": 20,
+        "manaCost": 50,
+        "criticalChance": 0.02,
+        "blue": 197
+      }
+    ],
+    [
+      {
+        "identifier": "minecraft:gold_ingot",
+        "damage": 8,
+        "firerate": 5,
+        "manaCost": 40,
+        "criticalChance": 0.02,
+        "blue": 7
+      },
+      {
+        "identifier": "minecraft:iron_ingot",
+        "damage": 6,
+        "firerate": 10,
+        "manaCost": 35,
+        "criticalChance": 0.03,
+        "blue": 193
+      },
+      {
+        "identifier": "minecraft:leather",
+        "damage": 6,
+        "firerate": -10,
+        "manaCost": 40,
+        "criticalChance": 0.0,
+        "blue": 70
+      },
+      {
+        "identifier": "minecraft:quartz",
+        "damage": 12,
+        "firerate": 20,
+        "manaCost": 25,
+        "criticalChance": 0.0,
+        "blue": 205
+      },
+      {
+        "identifier": "minecraft:emerald",
+        "damage": 6,
+        "firerate": 20,
+        "manaCost": 40,
+        "criticalChance": 0.06,
+        "blue": 241
+      },
+      {
+        "identifier": "minecraft:crimson_planks",
+        "damage": 12,
+        "firerate": -5,
+        "manaCost": 50,
+        "criticalChance": 0.0,
+        "blue": 145
+      },
+      {
+        "identifier": "minecraft:warped_planks",
+        "damage": 2,
+        "firerate": 20,
+        "manaCost": 25,
+        "criticalChance": 0.049999997,
+        "blue": 55
+      }
+    ],
+    [
+      {
+        "identifier": "minecraft:shulker_shell",
+        "damage": 8,
+        "firerate": -10,
+        "manaCost": 20,
+        "criticalChance": 0.0,
+        "blue": 90
+      },
+      {
+        "identifier": "minecraft:prismarine_shard",
+        "damage": 12,
+        "firerate": 20,
+        "manaCost": 0,
+        "criticalChance": 0.0,
+        "blue": 120
+      },
+      {
+        "identifier": "minecraft:netherite_ingot",
+        "damage": 22,
+        "firerate": 20,
+        "manaCost": 25,
+        "criticalChance": 0.0,
+        "blue": 105
+      }
+    ]
+  ]
+}
