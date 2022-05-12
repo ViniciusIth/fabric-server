@@ -5,10 +5,10 @@
     "allowedLeaves": [],
     "allowedNonDecayLeaves": [],
     "deniedLeaves": [],
-    "breakMode": "INSTANTANEOUS",
+    "breakMode": "SHIFT_DOWN",
     "detectionMode": "WHOLE_TREE",
     "maxScanSize": 500,
-    "maxSize": 100,
+    "maxSize": 200,
     "maxSizeAction": "ABORT",
     "breakOrder": "FURTHEST_FIRST",
     "minimumLeavesAroundRequired": 1,
@@ -40,7 +40,7 @@
     "registerSpecificEnchant": false,
     "hideEnchant": false
   },
-  "sneakMode": "SNEAK_DISABLE",
-  "breakInCreative": false,
+  "sneakMode": "SNEAK_ENABLE",
+  "breakInCreative": true,
   "notificationMode": "ACTION_BAR"
 }

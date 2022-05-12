@@ -6,7 +6,7 @@ veryRareItemChance = 5.0
 extremelyRareItemChance = 1.0
 inputCooldown = 20
 outputLootMultiplier = 1.0
-enableReiPercent = false
+enableReiPercent = true
 extractinatorRecipe = "NONE"
 [worldConfig]
 generateSiltOre_v1 = true
